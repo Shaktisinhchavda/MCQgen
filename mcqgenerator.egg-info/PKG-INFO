@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: mcqgenerator
+Version: 0.0.1
+Author: Shaktisinh Chavda
+Author-email: connectshaktisinh@gmail.com
+Requires-Dist: langchain
+Requires-Dist: langchain-google-genai
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

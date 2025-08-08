@@ -2,8 +2,4 @@ langchain
 langchain-google-genai
 streamlit
 python-dotenv
-PyPDF2
-
-
-
--e .
+PyPDF
